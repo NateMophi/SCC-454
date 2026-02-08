@@ -1,0 +1,5 @@
+Spark is fast and general purpose cluster computing system
+Spark provides high level APIs in Java Scala Python and R
+Spark supports general computation graphs for data analysis
+Spark has rich set of higher level tools including Spark SQL
+Spark SQL provides support for structured data processing
